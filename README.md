@@ -33,7 +33,7 @@ Here is how we can add a department. From the main menu, choose "Add Department"
 ![Add Department 2](/assets/AddDepartment2.jpg)
 
 Please refer to the walkthrough video for a demonstration of using this application.
-![Demo Video]({https://drive.google.com/drive/folders/18Y533-s9utSmfTtBE4j-FhhXmLOMhW5G})
+[Demo Video](https://drive.google.com/drive/folders/18Y533-s9utSmfTtBE4j-FhhXmLOMhW5G)
 
 ## Technical Usage
 
